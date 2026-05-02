@@ -1,0 +1,31 @@
+question,model,accuracy,reasoning,emotion,hallucination
+Why did Joker become a villain?,llama,2,4,4,2
+Why did Joker become a villain?,mistral,2,4,4,2
+Why did Joker become a villain?,phi,4,4,4,2
+What motivates Tony Stark?,llama,4,4,4,2
+What motivates Tony Stark?,mistral,4,4,4,2
+What motivates Tony Stark?,phi,4,4,4,2
+What is the theme of Interstellar?,llama,2,4,4,2
+What is the theme of Interstellar?,mistral,2,4,4,2
+What is the theme of Interstellar?,phi,4,4,4,2
+How does guilt affect Cobb in Inception?,llama,4,4,4,2
+How does guilt affect Cobb in Inception?,mistral,4,4,4,2
+How does guilt affect Cobb in Inception?,phi,4,4,4,2
+Why did Harvey Dent become Two-Face?,llama,2,4,4,2
+Why did Harvey Dent become Two-Face?,mistral,4,4,4,2
+Why did Harvey Dent become Two-Face?,phi,2,4,4,2
+How does society influence Arthur Fleck’s transformation into Joker?,llama,2,4,4,2
+How does society influence Arthur Fleck’s transformation into Joker?,mistral,2,4,4,2
+How does society influence Arthur Fleck’s transformation into Joker?,phi,2,4,4,2
+Why does Batman take the blame for Harvey Dent’s actions?,llama,4,4,4,2
+Why does Batman take the blame for Harvey Dent’s actions?,mistral,2,4,4,2
+Why does Batman take the blame for Harvey Dent’s actions?,phi,2,4,4,2
+What role does love play in decision-making in Interstellar?,llama,4,4,4,2
+What role does love play in decision-making in Interstellar?,mistral,4,4,4,2
+What role does love play in decision-making in Interstellar?,phi,2,4,4,2
+How does trauma shape Tony Stark’s transformation into a hero?,llama,4,4,4,2
+How does trauma shape Tony Stark’s transformation into a hero?,mistral,2,4,4,2
+How does trauma shape Tony Stark’s transformation into a hero?,phi,4,4,4,2
+Why is reality difficult to distinguish in Inception?,llama,2,4,4,2
+Why is reality difficult to distinguish in Inception?,mistral,2,4,2,2
+Why is reality difficult to distinguish in Inception?,phi,4,4,4,2

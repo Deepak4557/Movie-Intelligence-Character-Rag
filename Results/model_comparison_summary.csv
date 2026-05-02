@@ -1,0 +1,4 @@
+model,accuracy,reasoning,emotion,hallucination
+llama,3.0,4.0,4.0,2.0
+mistral,2.8,4.0,3.8,2.0
+phi,3.2,4.0,4.0,2.0
