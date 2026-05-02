@@ -1,4 +1,3 @@
-# Movie-Intelligence-Character-Rag
 # 🎬 Movie Plot & Character Intelligence using RAG
 
 This project implements a Retrieval-Augmented Generation (RAG) system to analyze movie plots, character motivations, and themes. The system answers deep reasoning questions using real movie data instead of relying only on model knowledge.
