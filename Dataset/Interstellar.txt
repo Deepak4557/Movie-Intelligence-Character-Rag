@@ -1,0 +1,157 @@
+PLOT :
+
+In the near future, humanity faces extinction due to dust storms and widespread crop blights. Cooper, a widowed former NASA test pilot, works as a farmer and raises his children, Murph and Tom, alongside his father-in-law Donald. Cooper is reprimanded by Murph's teachers for telling her that the Apollo missions were not fabricated. During a dust storm, the two discover that dust patterns in Murph's room, which she had first attributed to a ghost, result from a gravitational anomaly. They translate them into geographic coordinates, which lead them to a secret NASA facility headed by Professor John Brand. He explains that 48 years earlier, a wormhole appeared near Saturn, leading to a system in another galaxy with 12 potentially habitable planets located near a black hole named Gargantua. Volunteers of the Lazarus expedition had previously traveled through the wormhole to evaluate the planets, with three — Miller, Edmunds, and Mann — reporting back desirable results.
+
+Cooper is enlisted to pilot the Endurance spacecraft through the wormhole as part of a mission to colonize a habitable planet with 5000 frozen embryos and ensure humanity's survival. Meanwhile, Professor Brand would continue his work on solving a gravity equation whose solution would supposedly enable construction of a spacecraft for an exodus from Earth. Cooper accepts against Murph's wishes and promises to return. When she refuses to see him off, he leaves her his wristwatch to compare their relative time when he returns.
+
+The crew, consisting of Cooper, robots TARS and CASE, and scientists Dr. Amelia Brand (Professor Brand's daughter), Romilly, and Doyle, traverse the wormhole after a two-year voyage to Saturn. Cooper, Doyle, and Brand use a lander to investigate Miller's planet, where time is severely dilated. After landing in knee-high water and finding only wreckage from Miller's expedition, a gigantic tidal wave kills Doyle and waterlogs the lander's engines.
+
+By the time they leave the planet, Cooper and Brand discover that 23 years have elapsed on the Endurance. Having enough fuel left for only one of the other two planets, Cooper and Romilly decide to go to Mann's planet, despite Brand's protests, as he is still broadcasting. En route, they receive messages from Earth and Cooper watches Tom grow up, marry, and lose his first son. An adult Murph is now a scientist working on the gravity equation with Professor Brand. On his deathbed, Professor Brand confesses that the Endurance crew was never supposed to return, knowing that a complete solution to the equation was not feasible without observations of a gravitational singularity from inside a black hole.
+
+On Mann's planet, they awaken him from cryostasis, and he assures them that colonization is possible, despite the extreme environment. During a scouting mission, Mann attempts to kill Cooper and reveals that he falsified his data in the hope of being rescued. He steals Cooper's lander and heads for the Endurance. While a booby trap set by Mann kills Romilly, Brand rescues Cooper with the other lander and they race back to the Endurance. Mann is killed in a failed manual docking operation, severely damaging the Endurance, but Cooper is able to regain control of the station through his own docking maneuver.
+
+With insufficient fuel, Cooper and Brand resort to a slingshot around Gargantua, which costs them 51 years due to time dilation. In the process, Cooper and TARS jettison their landers to lighten the Endurance so that Brand and CASE may reach Edmunds' planet. Falling into Gargantua's event horizon, they eject from their craft and find themselves in a tesseract made up of infinite copies of Murph's bedroom across moments in time. Cooper deduces that the tesseract was constructed by advanced humans in the far future, and realizes that he had always been Murph's "ghost". He uses Morse code to manipulate the second hand of the wristwatch he gave her before he left, giving Murph the data that TARS collected, which enables her to complete Professor Brand's solution.
+
+The tesseract, its purpose fulfilled, collapses before ejecting Cooper and TARS. Cooper wakes up on a station orbiting Saturn. He reunites with Murph, now elderly and on her deathbed, who tells him to seek out Brand. Cooper and TARS take a spacecraft to rejoin Brand and CASE, who are setting up the human colony on Edmunds' habitable planet. 
+
+-----------------------------------------------
+
+SCRIPT EXCERPTS :
+
+Exploration Philosophy
+We used to look up at the sky and wonder at our place in the stars. Now we just look down and worry about our place in the dirt.
+
+Exploration Philosophy
+Mankind was born on Earth. It was never meant to die here.
+
+Exploration Philosophy
+We’re explorers, pioneers—not caretakers.
+
+Exploration Philosophy
+This world is a treasure, but it’s been telling us to leave for a while now.
+
+Love and Time
+Love is the one thing that transcends time and space.
+
+Love and Time
+Maybe we’ve spent too long trying to figure all this out with theory.
+
+Love and Time
+Time is relative—it can stretch and bend, but it can’t run backward.
+
+Love and Time
+By the time I come back, we might be the same age.
+
+Parent and Child Bond
+I love you forever. And I’m coming back.
+
+Parent and Child Bond
+A parent is just a ghost of their child’s future.
+
+Parent and Child Bond
+Don’t make me leave like this.
+
+Parent and Child Bond
+No parent should have to watch their child grow up without them.
+
+Science and Reality
+It’s not a ghost… it’s gravity.
+
+Science and Reality
+You say science is about admitting what we don’t know.
+
+Science and Reality
+Record the facts, analyze, and draw conclusions.
+
+Science and Reality
+Absolute honesty isn’t always the safest way to communicate with emotional beings.
+
+Survival and Humanity
+We’re not meant to save the world. We’re meant to leave it.
+
+Survival and Humanity
+The last people to starve will be the first to suffocate.
+
+Survival and Humanity
+Earth’s atmosphere is slowly becoming unlivable.
+
+Survival and Humanity
+Humanity must adapt or perish.
+
+Fear and Unknown
+We don’t know what’s out there—we need a pilot.
+
+Fear and Unknown
+Nature can be terrifying, but it is not evil.
+
+Fear and Unknown
+Everything out here is trying to kill us.
+
+Fear and Unknown
+We are not meant to be here—and yet we are.
+
+-----------------------------------------------
+
+CHARACTER ANALYSIS :
+
+Cooper
+Cooper is a former NASA pilot turned farmer, symbolizing lost human ambition. He represents curiosity, courage, and the human desire to explore. His internal conflict lies between his duty as a father and his calling as an explorer. His journey is both physical (through space) and emotional (through time and separation from his children).
+
+Murph
+Murph represents intelligence, belief, and emotional strength. As a child, she believes in the “ghost,” which later becomes a scientific reality. As an adult, she becomes the key to solving the gravity equation and saving humanity. She symbolizes the bridge between emotion and science.
+
+Dr. Amelia Brand
+Brand represents logic mixed with emotional intuition. She believes love can guide decisions beyond pure data, especially when choosing habitable planets. Her character challenges the idea that science must be purely rational.
+
+Professor Brand
+He represents sacrifice and moral ambiguity. He lies about Plan A to ensure the mission proceeds, prioritizing species survival over truth.
+
+TARS
+TARS symbolizes controlled intelligence—logic with adjustable humor and honesty. He represents the balance between machine efficiency and human relatability.
+
+Dr. Mann
+Mann represents human weakness. Despite being the “best of humanity,” he chooses survival over truth, showing fear can corrupt even the most respected individuals.
+
+-----------------------------------------------
+
+THEMES :
+
+Time and Relativity
+Time is not constant. It changes depending on gravity and speed, deeply affecting human relationships and perception of life.
+
+Love vs Logic
+The film suggests love is not just an emotion but a force that can influence decisions and transcend dimensions.
+
+Survival of Humanity
+The core theme is whether humanity can survive beyond Earth and what sacrifices are required.
+
+Exploration vs Survival
+Humans must choose between staying safe (caretakers) and risking everything to explore.
+
+Reality vs Perception
+Murph’s “ghost” initially seems supernatural but is later explained scientifically, blending perception with reality.
+
+Sacrifice
+Every character sacrifices something—family, truth, or morality—for the greater good.
+
+Isolation
+Space represents extreme isolation, both physically and emotionally.
+
+Hope
+Despite the dark future, the story maintains hope through science, love, and human persistence.
+
+-----------------------------------------------
+
+PSYCHOLOGICAL INSIGHTS :
+
+Interstellar explores how humans deal with uncertainty, fear, and separation.
+
+Cooper’s decision shows the conflict between personal attachment and greater purpose. He leaves his children not because he doesn’t love them—but because he believes it’s the only way to save them.
+
+Murph’s emotional journey reflects abandonment turning into understanding. Her anger as a child transforms into determination as an adult.
+
+The film suggests that humans are driven by both logic and emotion, and neither alone is enough.
+
+Dr. Mann’s actions highlight survival instinct overpowering morality, showing how fear can distort decision-making.
+
+The concept of the tesseract shows that time is not linear, and human perception is limited compared to higher-dimensional understanding.
